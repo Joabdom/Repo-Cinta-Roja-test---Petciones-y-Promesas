@@ -1,0 +1,14 @@
+{
+  "name": "06_peticiones",
+  "version": "1.0.0",
+  "description": "\"peticiones en js\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joab Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
